@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userselete",
+        "uuid": 7622664,
+        "checksum": "h4d0ph"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
